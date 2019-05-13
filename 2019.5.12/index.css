@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+    
+}
+body img{
+    width: 100%;
+    height: 100%;
+    /* 灰度 */
+    /* filter: grayscale(80%) */
+    /* sepia滤镜 */
+    /* filter: sepia(80%) */
+    /* saturate滤镜 */
+    /* filter: saturate(200%) */
+    /* contrast滤镜 */
+    /* filter: contrast(30%) */
+    /* hue-rotate滤镜 */
+    /* filter: hue-rotate(180deg) */
+    /* invert翻转 */
+    /* filter: invert(100%) */
+    /* opacity滤镜 */
+    /* filter: opacity(100%) */
+    /* blur滤镜 */
+    /* filter: blur(3px) */
+    /* drop-shadow滤镜 */
+    /* filter: drop-shadow(3px 3px 10px purple) */
+}
